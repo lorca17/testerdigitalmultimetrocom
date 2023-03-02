@@ -1,0 +1,12 @@
+
+# Database dump method: mysqldump
+# Exclude Table : 
+ NOTICE: Do NOT post to public sites or forums 
+#--------------------------------------------------------
+
+ Backup File Name : Tester_Digital_Multimetro_2018_10_28_1540754449_5704f1b_wpall.zip
+ Backup File Path : https://testerdigitalmultimetro.com/wp-content/uploads/wp_all_backup/Tester_Digital_Multimetro_2018_10_28_1540754449_5704f1b_wpall.zip
+ Backup Type : complete
+ #--------------------------------------------------------
+
+ Exclude Folders and Files : wp-content/backupwordpress-728d36f682-backups|.git|db-backup
